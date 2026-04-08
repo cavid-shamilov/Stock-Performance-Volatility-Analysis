@@ -1,5 +1,5 @@
 # Stock-Performance-Volatility-Analysis
-![Dashboard Preview](image_5.png)
+![Dashboard Preview](Dashboard_1.png)
 > **[Live Dashboard on Tableau Public](https://public.tableau.com/app/profile/cavid.samilov/viz/Book2_17753996285830/Dashboard1?publish=yes)**
 Analyzing stock market trends and volatility using a Kaggle dataset. Data processed in Excel/Power Query and visualized through an interactive Tableau dashboard.
 ## 📋 Project Overview & Business Questions
