@@ -14,11 +14,11 @@ This project aims to uncover key insights from historical stock data by addressi
 ### 1. Data Transformation (Excel & Power Query)
 Raw data was imported into Excel, and date formats and necessary calculations (Daily Range, Daily Change) were performed using Power Query.
 Raw Data
-(Raw_data_.png)
+![Raw Data](Raw_data.png)
 Raw data in Power Query
-(Raw_data_in_power_query.png)
+![Raw Data in Power Query](Raw_data_in_power_query.png)
 Cleaned Data
-(cleaned_data.png)
+![Cleaned Data](cleaned_data.png)
 
 
 
