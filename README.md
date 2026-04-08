@@ -1,5 +1,5 @@
 # Stock-Performance-Volatility-Analysis
-![Dashboard Preview](Dashboard_1.png)
+![Dashboard Preview](Dashboard.png)
 > **[Live Dashboard on Tableau Public](https://public.tableau.com/app/profile/cavid.samilov/viz/Book2_17753996285830/Dashboard1?publish=yes)**
 Analyzing stock market trends and volatility using a Kaggle dataset. Data processed in Excel/Power Query and visualized through an interactive Tableau dashboard.
 ## 📋 Project Overview & Business Questions
@@ -13,6 +13,13 @@ This project aims to uncover key insights from historical stock data by addressi
    - Visualized the top 10 days with the largest price swings (Daily Range) to identify high-risk sessions.
 ### 1. Data Transformation (Excel & Power Query)
 Raw data was imported into Excel, and date formats and necessary calculations (Daily Range, Daily Change) were performed using Power Query.
+Raw Data
+(Raw_data_.png)
+Raw data in Power Query
+(Raw_data_in_power_query.png)
+Cleaned Data
+(cleaned_data.png)
+
 
 
 ## 🛠️ Tools & Methodology
