@@ -13,11 +13,11 @@ This project aims to uncover key insights from historical stock data by addressi
    - Visualized the top 10 days with the largest price swings (Daily Range) to identify high-risk sessions.
 ### 1. Data Transformation (Excel & Power Query)
 Raw data was imported into Excel, and date formats and necessary calculations (Daily Range, Daily Change) were performed using Power Query.
-Raw Data
+####Raw Data
 ![Raw Data](Raw_data.png)
-Raw data in Power Query
+####Raw data in Power Query
 ![Raw Data in Power Query](Raw_data_in_power_query.png)
-Cleaned Data
+####Cleaned Data
 ![Cleaned Data](cleaned_data.png)
 
 
