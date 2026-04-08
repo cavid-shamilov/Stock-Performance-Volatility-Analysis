@@ -35,4 +35,4 @@ Raw data was imported into Excel, and date formats and necessary calculations (D
 - **Correlation KPI:** A dedicated card showing the relationship between Volume and Price Change.
 
 ---
-*Data Source: Kaggle*
+*Data Source: https://www.kaggle.com/datasets/anadiskt/salesforcecrm-financial-and-stock-data-20042026 *
