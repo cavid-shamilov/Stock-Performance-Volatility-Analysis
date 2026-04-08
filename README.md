@@ -20,6 +20,8 @@ Raw data was imported into Excel, and date formats and necessary calculations (D
 ![Raw Data in Power Query](Raw_data_in_power_query.png)
 #### Cleaned Data
 ![Cleaned Data](cleaned_data.png)
+#### Added two new columns to the dataset for analytical purposes after cleaning the data
+![new_columns](new_columns)
 
 
 
