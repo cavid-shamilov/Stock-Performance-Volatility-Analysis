@@ -11,9 +11,9 @@ This project aims to uncover key insights from historical stock data by addressi
    - Analysis revealed a correlation of **0.028**, suggesting that volume and price movements are largely decoupled for this asset.
 3. **Which periods were the most volatile?**
    - Visualized the top 10 days with the largest price swings (Daily Range) to identify high-risk sessions.
-### 1. Data Cleaning (Excel & Power Query)
+### 1. Data Transformation (Excel & Power Query)
 Raw data was imported into Excel, and date formats and necessary calculations (Daily Range, Daily Change) were performed using Power Query.
-![Excel Process]()
+
 
 ## 🛠️ Tools & Methodology
 - **Excel & Power Query:** Used for initial data processing, date formatting, and calculating daily performance metrics.
